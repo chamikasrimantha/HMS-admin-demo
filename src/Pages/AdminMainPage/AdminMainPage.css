@@ -1,0 +1,190 @@
+.d1 {
+    width: 100%;
+    height: 65vh;
+    background-image: linear-gradient(-30deg, yellow, black,orange);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.d2 {
+    /* background-color: white; */
+    width: 60%;
+    height: 50vh;
+    border-radius: 20px;
+    /* box-shadow: 0px 0px 12px 5px lightgray; */
+    display: flex;
+    flex-direction: row;
+    /* border-radius: 0px 30px 30px 0px; */
+}
+
+.d3 {
+    background-image: linear-gradient(-120deg, purple, blue);
+    /* flex-grow: 1; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: 0px 0px 7px 8px lightgray;
+}
+
+
+.i4 {
+    /* background-color: white; */
+    /* height: 70px; */
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.i5 {
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.i6 {
+    height: 30px;
+    /* margin-top: 7px; */
+    font-size: 16px;
+    color: lightgray;
+    /* border-radius: 10px; */
+    outline: none;
+    border: none;
+    background-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 2px;
+}
+
+.i6:focus {
+    border-bottom-color: aqua;
+}
+
+
+
+.i9 {
+    /* background-color: yellow; */
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.i11 {
+    width: 40%;
+    height: 45px;
+    background-color: gray;
+    color: white;
+    font-family: "Arial";
+    border-radius: 20px;
+    border: none;
+    margin-top: 50px;
+    font-size: 15px;
+    transition: 0.5s;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.i11:hover {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+
+.i12{
+    width: 20%;
+    height: 45px;
+    background-color: gray;
+    color: white;
+    font-family: "Arial";
+    border-radius: 20px;
+    border: none;
+    margin-top: 50px;
+    font-size: 15px;
+    transition: 0.5s;
+    margin-left: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.i12:hover {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+
+.i13:hover {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+.i13 {
+    width: 20%;
+    margin-left: 15px;
+    height: 45px;
+    background-color: gray;
+    color: white;
+    font-family: "Arial";
+    border-radius: 20px;
+    border: none;
+    margin-top: 50px;
+    font-size: 15px;
+    transition: 0.5s;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tablehead {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* box-shadow: 0px 0px 9px 8px white; */
+}
+
+
+
+.taaable {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.llt {
+    width: 70%;
+    background-color: orange;
+    color: black;
+}
+
+.hehehe {
+    background-image: linear-gradient(-120deg, blue,aqua,green);
+    width: 100%;
+    height: 300px;
+    margin-top: -60px;
+}
+
+.xxxx {
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.ff1 {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 5vh;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.ff2 {
+    margin-top: 14px;
+}
+
